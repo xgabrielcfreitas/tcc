@@ -3,4 +3,4 @@ Repositório para os códigos utilizados no Trabalho de Conclusão de Curso do e
 
 O código utiliza a Simulação de Monte Carlo, que a cada repetição evoca o modelo mecânico que permite a escolha do modelo constitutivo do material empregado.
 
-O arquivo ´main.py´ rege toda a rotina.
+O arquivo `main.py` rege toda a rotina.
