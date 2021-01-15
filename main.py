@@ -69,7 +69,7 @@ cc_type = np.array([[1,0,0,0],
 sigma_u = 40 # tensão de ruptura do material (kN/cm²)
 epsilon_y = 0.0012 # deformação correspondente à tensão de escoamento
 epsilon_u = 0.2 # deformação correspondente à tensão de ruptura
-K = 6563 # módulo de encruamento isotrópico (kN/cm²)
+K = 80.8 # módulo de encruamento isotrópico (kN/cm²)
 # obs: verificar coerência entre E, sigma_y e epsilon_y
 n_nodes = len(nodes[0]) # cálculo do número de nós da estrutura
 n_elm = len(con[0]) # cálculo do número de barras da estrutura
